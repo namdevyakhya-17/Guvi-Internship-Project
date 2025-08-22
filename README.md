@@ -34,7 +34,3 @@ This initiative delivers an **interactive Power BI dashboard** focused on hospit
 - Interactively apply **filters by time frame, medical facility, and condition** to discover specific insights.  
 - Use **cross-filtering tools** to examine relationships among patient demographics, billing, and treatment courses.  
 - Utilize **map and chart features** for enhanced operational planning and targeted healthcare delivery.
-
-**About the Analyst**  
-Simran Kukreja  
-B.Tech Computer Science & Engineering (AI & ML) | Enthusiast in Healthcare Data Science
